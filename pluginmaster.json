@@ -1,0 +1,24 @@
+[
+  {
+    "Author": "Aki, k-kz, ele-starshade, damolitionn, Taurenkey, Augporto, grimgal, Genesis-Nova, Tartarga",
+    "Name": "XIVSlothCombo",
+    "Punchline": "update  BLM DRG MCH AST",
+    "Description": "update  BLM DRG MCH AST",
+    "InternalName": "XIVSlothCombo",
+    "AssemblyVersion": "3.0.18.17",
+    "RepoUrl": "https://github.com/44451516/XIVSlothCombo/",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 8,
+    "IconUrl": "https://i.imgur.com/iEcxM81.png",
+    "ImageUrls": [
+      "https://i.imgur.com/iEcxM81.png"
+    ],
+    "DownloadLinkInstall": "https://github.com/44451516/XIVSlothCombo/raw/CN/release/XIVSlothCombo/latest.zip",
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadLinkTesting": "https://github.com/44451516/XIVSlothCombo/raw/CN/release/XIVSlothCombo/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/44451516/XIVSlothCombo/raw/CN/release/XIVSlothCombo/latest.zip",
+    "DownloadCount": 0,
+    "LastUpdated": "0"
+  }
+]
